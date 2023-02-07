@@ -147,8 +147,9 @@
         "id": 16,
         "name": "SS席",
         "picture": "images/ss.png",
-        "price": 5,
+        "price": 10,
         "artist": "yamshun",
-        "location": "okinwa"
+        "location": "okinwa",
+        "date": "3/1"
     }
 ]

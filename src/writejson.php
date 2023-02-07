@@ -17,6 +17,7 @@ $array = array(
         "price" =>(int)$_POST['text4'] ,
         "artist" => $_POST['text5'] ,
         "location" => $_POST['text6'] ,
+        "date" => $_POST['text7'] ,
     )
 );
 //print_r($array);
